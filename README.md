@@ -21,7 +21,6 @@
 </ol>
 > <a href="https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264">Ссылка на проект</a>
 
-<br> 
 
 <p> Проект 2: Моделирование балансов студентов с помощью SQL</p>
 </ol>
