@@ -15,9 +15,15 @@
 Настроить расчет учета корректировок планирования маркетинга
 Пересчитайте план найма преподавателя.
 
-[Ссылка на проект](https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264)
+[Ссылка на проект]([https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264](https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264))
 
-Выводы (итоги):
+Проект 2: Моделирование балансов студентов_SQL
+
+Что нужно было сделать:
+Настроить расчет учета корректировок планирования маркетинга
+Пересчитайте план найма преподавателя.
+
+[Ссылка на проект](https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264)
 
 Проект 2: Рейтинг менеджеров на основе: 1.Выполненного плана; 2.Процента прироста этого года к прошлому; 3.Сумма продаж новых клиентов, которых привел менедежр 
 
