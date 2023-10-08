@@ -15,7 +15,7 @@
 Настроить расчет учета корректировок планирования маркетинга
 Пересчитайте план найма преподавателя.
 
-[Ссылка на проект]([https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264](https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264))
+[Ссылка на проект](https://docs.google.com/spreadsheets/d/1euTJSjFqhlwEGodSz61s8UJZsz2Oicbe/edit#gid=1676190264)
 
 Проект 2: Моделирование балансов студентов_SQL
 
